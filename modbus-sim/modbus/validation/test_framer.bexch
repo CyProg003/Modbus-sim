@@ -1,0 +1,27 @@
+[GENERATED OBJECT FILE]
+b__test_framer.o
+[PROJECT FILES]
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/tests/modbus_tests.gpr
+20260924210824 b797598e467da56c16b018d17d9bca09
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/tests/config/modbus_tests_list_config.gpr
+20260924211445 83dc5477314630ed243c10ec63e01ffc
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/config/modbus_config.gpr
+20260924211445 19a6032afd12b2b0745c31ffc5506dc8
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/modbus.gpr
+20260924210824 09ce34acac57e2cd01108a31e685263c
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/tests/config/modbus_tests_config.gpr
+20260924211445 7b15c6bb60a43a1cb05de756f39db1d8
+[BOUND OBJECT FILES]
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/validation/test_framer.o
+[GENERATED SOURCE FILES]
+b__test_framer.ads
+b__test_framer.adb
+b__test_framer.ali
+[RESULTING OPTIONS]
+-L/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/validation/
+-L/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/validation/
+-L/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/lib/
+-L/home/ohenley/.local/share/alire/toolchains/gnat_native_16.1.0_9f74f58a/lib/gcc/x86_64-pc-linux-gnu/16.1.0/adalib/
+-static
+/home/ohenley/.local/share/alire/toolchains/gnat_native_16.1.0_9f74f58a/lib/gcc/x86_64-pc-linux-gnu/16.1.0/adalib/libgnat.a
+-ldl

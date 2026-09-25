@@ -1,0 +1,17 @@
+[LIBRARY PATH]
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/lib/libModbus.a
+[OBJECT FILES]
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/development/modbus-pdu.o
+20260924213457
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/development/modbus-rtu-crc.o
+20260924213457
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/development/modbus-rtu-framer.o
+20260924213457
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/development/modbus-rtu.o
+20260924213457
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/development/modbus-server.o
+20260924213457
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/development/modbus.o
+20260924213457
+/home/ohenley/capstones_2026_2027/FIU/modbus-sim/modbus/obj/development/modbus_config.o
+20260924211719

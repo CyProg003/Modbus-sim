@@ -1,0 +1,17 @@
+20260924211445
+-c
+-x
+ada
+-gnatA
+-O3
+-gnatn
+-ffunction-sections
+-fdata-sections
+-g
+-gnato
+-gnatwa
+-gnatw.X
+-gnatVa
+-gnatwe
+-gnata
+-gnatW8

@@ -1,0 +1,13 @@
+name = "modbus_tests"
+description = "Tests for the built-in Alire test runner"
+version = "0.0.0-test"
+
+[[depends-on]]
+modbus = "*"
+
+[[pins]]
+modbus = { path = ".." }
+
+[build-profiles]
+modbus       = "validation"
+modbus_tests = "validation"
